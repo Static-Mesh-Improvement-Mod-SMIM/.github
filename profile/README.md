@@ -6,8 +6,6 @@ Static Mesh Improvement Mod (SMIM) is a comprehensive graphical overhaul for The
 
 ![SMIM comparison showing improved wooden barrels with more detailed geometry and surface appearance](https://coldharbour.ru/catalog/gallery_skyrim_se/425/10.jpg)
 
-![Vanilla Skyrim benches compared with the more detailed SMIM replacement meshes](https://images.gamewatcherstatic.com/screenshot/image/2/81/292292/8655-1-1362876699.jpg)
-
 ## Comprehensive 3D Mesh Improvements Across Skyrim
 
 SMIM addresses one of the original game's most noticeable graphical limitations: the relatively simple geometry used for many everyday objects. While Skyrim features detailed characters, creatures, weapons, and major structures, numerous smaller environmental assets rely on low-polygon models that can look flat or artificial when viewed up close.
